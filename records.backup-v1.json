@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "owner": "0xE2b39f4cfFA5B17434e47Ab5F54b984155e4b7aD",
+  "cipher": "AES-256-GCM",
+  "kdf": "HKDF-SHA256(signature r||s)",
+  "records": [
+    {
+      "id": "c0dd67d6-beda-4ffe-b3c8-a7b2f22d4e6c",
+      "fields": {
+        "fullName": "yR7xUZSUw6KCxHeX.keEucbx2GpXQbU31a4MJTBS8WckfcA",
+        "email": "iCMOv6qaZGvMaw6D.mOwVEvAHx08ZefFOgZCkK_sFRQw-KBZlcgDe_S8DkgE8hiyt",
+        "dateOfBirth": "eyevf1YJwrOonAfT.PogJERBVrAfNwyFocsOYZQzSLXRd6sZ79O10rw",
+        "phone": "aZach3zWf_n1KA5t.CFEV71mT307ssEEox2K6QEScpeA8q8A7eH8",
+        "address": "GFsF1PKVM97Vnbrt.LbKgz85mnUz_tq4I7IiQv0sehRYOwLid9DTg7IyZbwJ2",
+        "nationality": "FdxuLRe0Tkr1zJaU.m16_P7za8SN3JtFpQq4eXg0TfYjVnzw5Qws",
+        "occupation": "DZOJnbQLmB9lQhyF.zS4DF1cpTw0QVwBQ6keG6Qn7n5_WuyQ_"
+      }
+    }
+  ]
+}

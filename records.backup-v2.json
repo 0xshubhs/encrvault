@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "cipher": "AES-256-GCM",
+  "kdf": "HKDF-SHA256(signature r||s)",
+  "records": [
+    {
+      "id": "c0dd67d6-beda-4ffe-b3c8-a7b2f22d4e6c",
+      "owner": "0xE2b39f4cfFA5B17434e47Ab5F54b984155e4b7aD",
+      "fields": {
+        "fullName": "yR7xUZSUw6KCxHeX.keEucbx2GpXQbU31a4MJTBS8WckfcA",
+        "email": "iCMOv6qaZGvMaw6D.mOwVEvAHx08ZefFOgZCkK_sFRQw-KBZlcgDe_S8DkgE8hiyt",
+        "dateOfBirth": "eyevf1YJwrOonAfT.PogJERBVrAfNwyFocsOYZQzSLXRd6sZ79O10rw",
+        "phone": "aZach3zWf_n1KA5t.CFEV71mT307ssEEox2K6QEScpeA8q8A7eH8",
+        "address": "GFsF1PKVM97Vnbrt.LbKgz85mnUz_tq4I7IiQv0sehRYOwLid9DTg7IyZbwJ2",
+        "nationality": "FdxuLRe0Tkr1zJaU.m16_P7za8SN3JtFpQq4eXg0TfYjVnzw5Qws",
+        "occupation": "DZOJnbQLmB9lQhyF.zS4DF1cpTw0QVwBQ6keG6Qn7n5_WuyQ_"
+      }
+    },
+    {
+      "id": "61cdb223-ef32-4a73-816c-45f1d207b605",
+      "owner": "0x19ED934481B2f550b74487F62C3232Ec91Fac184",
+      "fields": {
+        "fullName": "UzTHw5pyXnO0LYgu.2wKF1zlGKiIbFrliGLz3Sdor-kHCcNBIyA",
+        "email": "8vXPn86IbLZdIWqV.WoY__-Wqength30D_wkak9S-uGD_1iRBEVpvm-WVQiCO-OKbgL8",
+        "dateOfBirth": "OoonlQ_DKk4mwQ5x.Y7QbwD_Oo67-ewycxRQtLX8YQH-YD8NQJdRzXQ",
+        "phone": "IpdVc0krpG7w0vNT.Q3Rd3LHrgMPxX5x5Yfd6CZDOx6RBq-oW1YZfWUNp2dRHdxFK0yCi6w",
+        "address": "emY5aYknFlrJTvNi.P4ZtRr7PW1E0JoJ5Jf97JqmwycpVjaY5Mb8q85VD6OIszGQ",
+        "nationality": "IVGDnCXZczB_3ijl.HUQf0Lf0_3NX9iVTiQqCYfI3k-MvJc1Z_HEQREZI",
+        "occupation": "hCdIfynrKmlbtt7i.ON9pV1wWcEv5N5KWpWV5H8jZwZaIJVx3_jU6YU_MHluVQw"
+      }
+    }
+  ]
+}
